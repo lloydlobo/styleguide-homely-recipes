@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "lloydlobo", // Usually your GitHub org/user name.
-  projectName: "homely-recipes", // Usually your repo name.
+  projectName: "styleguide-homely-recipes", // Usually your repo name.
   trailingSlash: false,
 
   presets: [
