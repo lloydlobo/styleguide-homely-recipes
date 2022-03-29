@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Homely Recipes
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Homely Recipes** in less than 10 minutes.
 
 ## Getting Started
 
