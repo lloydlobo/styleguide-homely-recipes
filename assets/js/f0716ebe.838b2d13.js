@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[6389],{4749:function(e){e.exports=JSON.parse('{"allTagsPath":"/styleguide-homely-recipes/blog/tags","name":"greetings","count":1,"permalink":"/styleguide-homely-recipes/blog/tags/greetings"}')}}]);

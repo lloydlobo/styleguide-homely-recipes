@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[5448],{3108:function(s){s.exports=JSON.parse('{"allTagsPath":"/styleguide-homely-recipes/blog/tags","name":"docusaurus","count":4,"permalink":"/styleguide-homely-recipes/blog/tags/docusaurus"}')}}]);

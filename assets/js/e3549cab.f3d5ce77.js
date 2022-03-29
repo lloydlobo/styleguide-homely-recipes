@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[9420],{9783:function(e,n,l){l.r(n),l.d(n,{default:function(){return u}});var s=l(2600),t=l(7294);function u(){return t.createElement(s.Z,null,t.createElement("h1",null,"Brand Style Guide"),t.createElement("p",null,"An overview of all our brand's style versions & visual assets"))}}}]);
