@@ -128,6 +128,9 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  // ...
+  themes: ["@saucelabs/theme-github-codeblock"],
+  // ...
 };
 
 module.exports = config;
