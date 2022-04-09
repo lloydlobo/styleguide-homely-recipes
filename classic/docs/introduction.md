@@ -46,7 +46,7 @@ The `/admin` access will **only be available** after you deploy your _own_ site 
 
 :::
 
-So you can't wait to see how it works? [Check out this tutorial](/docs/managing-content/cms/) to learn how to add a CMS to simplify your process of adding content.
+So you can't wait to see how it works? [Check out this tutorial](/docs/guides/cms) to learn how to add a CMS to simplify your process of adding content.
 
 ## Project Scope & Objective
 

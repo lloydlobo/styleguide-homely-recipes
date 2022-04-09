@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Installing"
+sidebar_label: "Installation"
 ---
 
 # Installing
