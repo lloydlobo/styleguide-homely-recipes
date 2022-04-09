@@ -1,6 +1,5 @@
 ---
-slug: /Style guide
-sidebar_label: "Overview"
+sidebar_label: "Web components"
 ---
 
 # What are web components

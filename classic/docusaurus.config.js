@@ -72,20 +72,20 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Foundations",
-                to: "/docs/foundations",
+                label: "Installing and configuring",
+                to: "/docs/02-installing-and-configuring/01-Overview",
               },
               {
-                label: "Style Guide",
-                to: "/docs/style-guide",
+                label: "Style guide",
+                to: "/docs/03-Style guide/01-Brand Style",
               },
               {
                 label: "Components",
-                to: "/docs/components",
+                to: "/docs/05-Components/01-Overview",
               },
               {
-                label: "Develop",
-                to: "/docs/develop",
+                label: "Contributing and collaborating",
+                to: "/docs/09-contributing-and-collaborating",
               },
             ],
           },
@@ -94,7 +94,7 @@ const config = {
             items: [
               {
                 label: "Octavia Recipes",
-                href: "https://octavia-recipes.netlify.app/",
+                href: "https://octavia.app/",
               },
               {
                 label: "Material Design",
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: "Visit Homely Recipes",
-                href: "https://lloydlobo.github.io/homely-recipes/",
+                href: "https://homelyrecipes.netlify.app/",
                 // to: "/blog",
               },
               {

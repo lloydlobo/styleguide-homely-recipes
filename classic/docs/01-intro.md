@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Introduction"
+sidebar_label: "Overview"
 sidebar_position: 1
 ---
 
@@ -11,7 +11,7 @@ Step-by-step guides to set up and use Homely Recipes to get your website up and 
 
 <!-- Get started by **creating a new site**. -->
 
-<!-- Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**. -->
+[Click on this demo](https://homelyrecipes.netlify.app) and see what you'll build and get right away.
 
 ### What you'll need
 
@@ -21,47 +21,12 @@ Step-by-step guides to set up and use Homely Recipes to get your website up and 
 - Domain Name (optional)
 - Eleventy (coming soon...)
 
-## Generate a new site
+> For accessing CMS or Content Management System, you'll have to type `/admin` at the end of your deployed site. For example: `https://homelyrecipes.netlify.app/admin`.
 
-### For non-developers
+> **Note**: The `/admin` access will **only be available** after you deploy your _own_ site and **add** a CMS like NetlifyCMS.
+> Can't wait to see how it works? [Check out the tutorial here](/docs/managing-content/cms/) to learn how to add a CMS to simplify your process of adding content.
 
->**Note**: Requires GitHub Desktop
-
-- Download [GitHub Desktop](https://desktop.github.com/) and follow the [instructions](https://docs.github.com/en/desktop) that GitHub provides.
-- You may want to download the latest Source Files as a ZIP folder from [here](https://github.com/lloydlobo/homely-recipes/archive/refs/heads/main.zip) or from the `Code ⬇️ ` &nbsp;dropdown icon on this repository's main branch.
-
-
-### For developers
-
-#### Clone with HTTPS:
-
-```bash
-  git clone https://github.com/lloydlobo/homely-recipes.git
-```
-
-#### Clone with SSH:
-
-```bash
-  git clone git@github.com:lloydlobo/homely-recipes.git
-```
-
-#### Clone with GitHub CLI:
-
-```bash
-  gh repo clone lloydlobo/homely-recipes
-```
-
-<!-- Generate a new Docusaurus site using the **classic template**. -->
-
-<!-- The classic template will automatically be added to your project after you run the command: -->
-
-<!-- ```bash
-npm init docusaurus@latest my-website classic
-``` -->
-
-<!-- You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor. -->
-
-<!-- The command also installs all necessary dependencies you need to run Docusaurus. -->
+<!-- Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**. -->
 
 ## Project Scope & Objective
 

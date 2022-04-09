@@ -11,12 +11,12 @@ export default function BrandStyleGuide() {
         <h1>Download Resources</h1>
         <p>
           Get design files, material theme template, and assets used in the
-          making ogf Homely Recipes.
+          making of Homely Recipes.
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/pages/brand-style-guide"
+            to="https://github.com/lloydlobo/homely-recipes/tree/style-reference/"
           >
             Download the Style Guide →
           </Link>
