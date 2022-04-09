@@ -21,7 +21,7 @@ Get started by **creating a new site**.
 
 :::tip
 
-You can instantly **host your new site** right on GitHub with **GitHub Pages** environment.
+Instantly **host your new site** right on GitHub with their \*GitHub Pages\*\* environment.
 
 :::
 
@@ -31,11 +31,13 @@ You can instantly **host your new site** right on GitHub with **GitHub Pages** e
 - Netlify Account for free hosting
   - Netlify CMS (optional)
 - Domain Name (optional)
-- Eleventy (coming soon...)
+- Eleventy (coming soon)
 
 :::note
 
-For accessing CMS or Content Management System, you'll have to type `/admin` at the end of your deployed site. For example: `https://homelyrecipes.netlify.app/admin`.
+To access the CMS or Content Management System, type `/admin` at the end of your deployed site.
+For example: `https://homelyrecipes.netlify.app/admin`.
+
 :::
 
 :::info
@@ -44,8 +46,8 @@ The `/admin` access will **only be available** after you deploy your _own_ site 
 
 :::
 
-Can't wait to see how it works? [Check out the tutorial here](/docs/managing-content/cms/) to learn how to add a CMS to simplify your process of adding content.
+So you can't wait to see how it works? [Check out this tutorial](/docs/managing-content/cms/) to learn how to add a CMS to simplify your process of adding content.
 
 ## Project Scope & Objective
 
-For a quick read about the project details, you may want to head over to the [Wiki](https://github.com/lloydlobo/homely-recipes/wiki) section over on GitHub.
+For a quick read about the project details, head over to the [Wiki](https://github.com/lloydlobo/homely-recipes/wiki) section on GitHub.
