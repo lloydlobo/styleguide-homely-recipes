@@ -14,10 +14,7 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro"
-          >
+          <Link className="button button--secondary button--lg" to="/docs">
             Read the guidelines →
           </Link>
         </div>
@@ -31,7 +28,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Recipes are cool. Why re-invent the wheel!"
+      description="Recipes websites are cool. Making them from scratch is not. Why re-invent the wheel!"
     >
       <HomepageHeader />
       <main>

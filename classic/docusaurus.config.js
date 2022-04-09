@@ -53,7 +53,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "introduction",
             position: "left",
             label: "Docs",
           },
@@ -73,19 +73,19 @@ const config = {
             items: [
               {
                 label: "Installing and configuring",
-                to: "/docs/02-installing-and-configuring/01-Overview",
+                to: "/docs/category/getting-started",
               },
               {
                 label: "Style guide",
-                to: "/docs/03-Style guide/01-Brand Style",
+                to: "/docs/style-introduction",
               },
               {
                 label: "Components",
-                to: "/docs/05-Components/01-Overview",
+                to: "/docs/advanced/web-components",
               },
               {
                 label: "Contributing and collaborating",
-                to: "/docs/09-contributing-and-collaborating",
+                to: "/docs/contributing-collaborating",
               },
             ],
           },
