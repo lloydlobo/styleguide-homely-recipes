@@ -77,7 +77,7 @@ const config = {
               },
               {
                 label: "Style guide",
-                to: "/docs/style-introduction",
+                to: "/docs/category/style-guide",
               },
               {
                 label: "Components",
