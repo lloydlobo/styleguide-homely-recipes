@@ -2,7 +2,7 @@
 id: theme
 title: Theme
 description: You can find all the theme presets here.
-slug: /theme
+slug: /style-guide/theme
 ---
 
 ## Material Design Theme
@@ -32,9 +32,10 @@ Adding the `mdc-theme--primary` next to the `logo` class:
 ```html reference
 https://github.com/lloydlobo/homely-recipes/blob/main/index.html#L32-L36
 ```
+
 ### Styling HTML elements
 
-Adding the `body-medium` from [Typography](/docs/typography) classes to a paragraph `<p>`:
+Adding the `body-medium` from [Typography](/docs/style-guide/typography) classes to a paragraph `<p>`:
 
 ```html reference
 https://github.com/lloydlobo/homely-recipes/blob/main/index.html#L111-L114

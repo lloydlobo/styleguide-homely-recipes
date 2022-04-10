@@ -1,8 +1,9 @@
 ---
 id: typography
 title: Typography
+sidebar_label: Typography
 description: You can find all the style guide sections here.
-slug: /typography
+slug: /style-guide/typography
 ---
 
 Welcome to the style guide typography overview. You can find all the style guide sections here.
@@ -10,9 +11,7 @@ Welcome to the style guide typography overview. You can find all the style guide
 ## Font family
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L12-L14
-
 ```
 
 ## Typography Examples
@@ -26,8 +25,8 @@ Since larger texts can't be displayed in this documentation, we use lesser text 
 
 :::
 
-
 <label>Heading 1: Black 900 Uppercase</label>
+
 <div class="h1">Fo</div>
 <label>Heading 2: Black 900 Uppercase</label>
 <div class="h2">Food</div>
@@ -40,8 +39,8 @@ Since larger texts can't be displayed in this documentation, we use lesser text 
 <label>Heading 6: Bold 700</label>
 <p class="h6">The quick brown fox jumps over a lazy dog.</p>
 
-
 <label>Paragraph: Regular 400</label>
+
 <p class="p">The quick brown fox jumps over a lazy dog.</p>
 <br/>
 
@@ -60,9 +59,7 @@ Since larger texts can't be displayed in this documentation, we use lesser text 
 <!-- fluid-type-scale - type-scale-ration: 1.618, min-width: 320px, max-width: 1920px -->
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L23-L38
-
 ```
 
 ## Styled Font sizes
@@ -70,28 +67,23 @@ https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L23-L38
 ### Paragraphs: Body
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L729-L750
-
 ```
+
 ### Headings: Display
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L625-L663
-
 ```
+
 ### Headings: Title
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L664-L681
-
 ```
+
 ### Headings: Headline
 
 ```css reference
-
 https://github.com/lloydlobo/homely-recipes/blob/main/css/style.css#L694-L727
-
 ```
