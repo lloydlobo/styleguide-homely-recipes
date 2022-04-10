@@ -6,9 +6,9 @@ This section isn't structured, yet we will cover the following topics:
 - Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-:::caution
+:::tip
 
-Don't panic if you don't understand everything😉
+Don't panic if you don't understand everything 😉
 
 :::
 
@@ -18,8 +18,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 > Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-:::tip
+:::note
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 :::
+
+<!-- <del>Hello</del>
+<br/>
+<ins>Hi</ins> -->
