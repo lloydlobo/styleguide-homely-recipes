@@ -21,7 +21,7 @@ Get started by **creating a new site**.
 
 :::tip
 
-Instantly **host your new site** right on GitHub with their \*GitHub Pages\*\* environment.
+Instantly **host your new site** right on GitHub with their **GitHub Pages** environment.
 
 :::
 
